@@ -1,0 +1,21 @@
+{
+    "name": "embedded-development-pack",
+    "publisher": "mischelebuha",
+    "displayName": "Embedded Development Extension Pack",
+    "description": "Collection of essential extensions for productive embedded development",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mischelebuha/embedded-development-extension-pack"
+      },
+    "extensionPack": [
+        "marus25.cortex-debug",
+        "ZixuanWang.linkerscript"
+    ]
+}
