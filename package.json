@@ -3,7 +3,7 @@
     "publisher": "mischelebuha",
     "displayName": "Embedded Development Extension Pack",
     "description": "Collection of essential extensions for productive embedded development",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.44.0"
     },
@@ -16,6 +16,7 @@
       },
     "extensionPack": [
         "marus25.cortex-debug",
-        "ZixuanWang.linkerscript"
+        "ZixuanWang.linkerscript",
+        "guillaumelegrain.vscode-icf-syntax"
     ]
 }

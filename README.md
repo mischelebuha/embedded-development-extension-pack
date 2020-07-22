@@ -6,7 +6,7 @@ Collection of essential extensions for productive embedded development
 
 - [C/C++ Extension Pack](https://marketplace.visualstudio.com/items?itemName=mischelebuha.c-cpp-extension-pack)
 - [CMake Extension Pack](https://marketplace.visualstudio.com/items?itemName=mischelebuha.cmake-extension-pack)
-- [Embedded Development Extension Pack](https://marketplace.visualstudio.com/items?itemName=mischelebuha.embedded-development-extension-pack)
+- [Embedded Development Extension Pack](https://marketplace.visualstudio.com/items?itemName=mischelebuha.embedded-development-pack)
 
 
 ## Install your extension without marketplace
